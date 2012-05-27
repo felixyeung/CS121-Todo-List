@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, todoMain!</string>
+    <string name="app_name">Todo</string>
+    <string name="login_description">Enter credentials per your registration on the todolist website:</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_explain">** You are seeing this page because this is the first time you have started this app, or you have deleted it\'s preferences. No further logins will be necessary in the future.</string>
+    <string name="PREF_PASSWORD">PREF_PASSWORD</string>
+    <string name="PREF_USERNAME">PREF_USERNAME</string>
+    <string name="save_cred">Save Credentials</string>
+
+</resources>
